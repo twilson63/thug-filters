@@ -1,0 +1,28 @@
+{
+  "name": "thug-filters",
+  "version": "0.0.1",
+  "description": "A filter add-on for thug functional model",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "filter",
+    "thug",
+    "functional",
+    "model",
+    "orm"
+  ],
+  "author": "Tom Wilson",
+  "license": "MIT",
+  "dependencies": {
+    "node-uuid": "~1.4.0",
+    "validator": "~0.4.19"
+  },
+  "devDependencies": {
+    "mocha": "~1.7.4"
+  }
+}
