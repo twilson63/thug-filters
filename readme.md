@@ -1,4 +1,4 @@
-# thug-filters [![Build Status](https://secure.travis-ci.org/twilson63/thug-filters.png)](http://travis-ci.org/twilson63/thug-filters)
+# thug-filters [![Build Status](https://travis-ci.org/twilson63/thug-filters.png?branch=master)](https://travis-ci.org/twilson63/thug-filters)
 
 Thug is a functional model system for nodejs, this module is an add-on module of common filters that any model may use.
 
