@@ -40,7 +40,7 @@ module.exports = function(config) {
 
 Removes all nodes from the document that are specified in the fields array.
 
-### 'whitelist(fields)`
+### `whitelist(fields)`
 
 Keeps all nodes from the document that are specified in the fields array and discards the rest.
 
@@ -71,8 +71,6 @@ filters: {
 ### `uuid(field)`
 
 Generates a unique identifer using the node-uuid module.
-
----
 
 ## LICENSE
 
